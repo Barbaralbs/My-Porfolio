@@ -7,7 +7,7 @@ Greetings! I'm Barbara, a Data Science student passionate about pursuing a caree
 This portfolio highlights my skills in data modeling, visualization, and analysis, demonstrating my ability to transform raw data into actionable insights. Through practical projects and case studies, I explore various techniques and tools.
 
 ## Projects 
-- [Data Analysis - 1]
+- [Python]
 - [Data Visualization - 1]
 - [Data Modeling - 1]
 
