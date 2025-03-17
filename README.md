@@ -8,6 +8,7 @@ This portfolio highlights my skills in data modeling, visualization, and analysi
 
 ## Projects 
 - [Python] Satisfação_Cliente https://colab.research.google.com/drive/1gWSuOrABfssCDceAglYcPVOGB8woEAp8#scrollTo=Lz8gY10bdIOT
+- [Python] Calculadora Básica https://colab.research.google.com/drive/1_E2y3jZcuPAmawOnoFvv9UP1AfOM3gya
 - [Data Visualization - 1]
 - [Data Modeling - 1]
 
