@@ -9,8 +9,7 @@ This portfolio highlights my skills in data modeling, visualization, and analysi
 ## Projects 
 - [Python] Satisfação_Cliente https://colab.research.google.com/drive/1gWSuOrABfssCDceAglYcPVOGB8woEAp8#scrollTo=Lz8gY10bdIOT
 - [Python] Calculadora Básica https://colab.research.google.com/drive/1_E2y3jZcuPAmawOnoFvv9UP1AfOM3gya
-- [Data Visualization - 1]
-- [Data Modeling - 1]
+- [Python] Contagem de Palavras em uma frase https://colab.research.google.com/drive/1oG7uPbJN6wk4fBUj9kqbw1ocAIngUvoW
 
 ## Habilities
 - **Programing Languages:** SQL, Python, Pandas
